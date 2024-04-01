@@ -1,4 +1,4 @@
-#Nathan Stevens Week 6 learning journal
+#Nathan Stevens Week 8 learning journal
 
 ##Learning activities:
 
